@@ -1,0 +1,53 @@
+cmake:
+  application:
+    configuration-dir: '/home/pranav/ncsfund/l2_e1'
+    source-dir: '/home/pranav/ncsfund/l2_e1'
+  board:
+    name: 'nrf52840dk'
+    path:
+     - '/home/pranav/ncs/v3.2.1/zephyr/boards/nordic/nrf52840dk'
+    qualifiers: 'nrf52840'
+    revision: ''
+  devicetree:
+    bindings-dirs:
+     - '/home/pranav/ncs/v3.2.1/nrf/dts/bindings'
+     - '/home/pranav/ncs/v3.2.1/zephyr/dts/bindings'
+    files:
+     - '/home/pranav/ncs/v3.2.1/zephyr/boards/nordic/nrf52840dk/nrf52840dk_nrf52840.dts'
+    include-dirs:
+     - '/home/pranav/ncs/v3.2.1/nrf/include'
+     - '/home/pranav/ncs/v3.2.1/nrf/dts/common'
+     - '/home/pranav/ncs/v3.2.1/nrf/dts/riscv'
+     - '/home/pranav/ncs/v3.2.1/nrf/dts/arm'
+     - '/home/pranav/ncs/v3.2.1/nrf/dts'
+     - '/home/pranav/ncs/v3.2.1/zephyr/include'
+     - '/home/pranav/ncs/v3.2.1/zephyr/include/zephyr'
+     - '/home/pranav/ncs/v3.2.1/zephyr/dts/common'
+     - '/home/pranav/ncs/v3.2.1/zephyr/dts/vendor'
+     - '/home/pranav/ncs/v3.2.1/zephyr/dts/rx'
+     - '/home/pranav/ncs/v3.2.1/zephyr/dts/x86'
+     - '/home/pranav/ncs/v3.2.1/zephyr/dts/xtensa'
+     - '/home/pranav/ncs/v3.2.1/zephyr/dts/sparc'
+     - '/home/pranav/ncs/v3.2.1/zephyr/dts/riscv'
+     - '/home/pranav/ncs/v3.2.1/zephyr/dts/posix'
+     - '/home/pranav/ncs/v3.2.1/zephyr/dts/arm64'
+     - '/home/pranav/ncs/v3.2.1/zephyr/dts/arm'
+     - '/home/pranav/ncs/v3.2.1/zephyr/dts/arc'
+     - '/home/pranav/ncs/v3.2.1/zephyr/dts'
+  kconfig:
+    files:
+     - '/home/pranav/ncs/v3.2.1/zephyr/boards/nordic/nrf52840dk/nrf52840dk_nrf52840_defconfig'
+     - '/home/pranav/ncsfund/l2_e1/prj.conf'
+     - '/home/pranav/ncsfund/l2_e1/build/l2_e1/zephyr/.config.sysbuild'
+    user-files:
+     - 'prj.conf'
+  toolchain:
+    name: 'zephyr'
+    path: '/home/pranav/ncs/toolchains/43683a87ea/opt/zephyr-sdk'
+  vendor-specific:
+    nordic:
+      svdfile: '/home/pranav/ncs/v3.2.1/modules/hal/nordic/nrfx/bsp/stable/mdk/nrf52840.svd'
+  zephyr:
+    version: '4.2.99'
+    zephyr-base: '/home/pranav/ncs/v3.2.1/zephyr'
+version: '0.1.0'

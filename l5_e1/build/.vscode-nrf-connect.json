@@ -1,0 +1,19 @@
+{
+  "toolchainPath": "/home/pranav/ncs/toolchains/43683a87ea",
+  "sdkPath": "/home/pranav/ncs/v3.2.1",
+  "board": "nrf52840dk/nrf52840",
+  "boardDir": "/home/pranav/ncs/v3.2.1/zephyr/boards/nordic/nrf52840dk",
+  "boardDirs": [
+    "/home/pranav/ncs/v3.2.1/zephyr/boards/nordic/nrf52840dk"
+  ],
+  "optimizations": "none",
+  "cmakeArgs": [],
+  "confFiles": [
+    "prj.conf"
+  ],
+  "buildDirectory": "build",
+  "kconfigFragments": [],
+  "snippets": [],
+  "dtcOverlays": [],
+  "extraDtcOverlays": []
+}

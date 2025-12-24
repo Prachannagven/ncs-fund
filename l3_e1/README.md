@@ -1,0 +1,1 @@
+This is different from the solution provided by the devacademy. For some reason, I needed to manually enable the console, serial and serial_uart on the prj.conf file. I've also added a blinky for testing.

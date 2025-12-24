@@ -1,0 +1,2 @@
+"nrf":"/home/pranav/ncs/v3.2.1/nrf":"/home/pranav/ncs/v3.2.1/nrf/sysbuild"
+"mcuboot":"/home/pranav/ncs/v3.2.1/bootloader/mcuboot":"/home/pranav/ncs/v3.2.1/bootloader/mcuboot/boot/zephyr/sysbuild"

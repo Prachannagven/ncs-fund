@@ -1,0 +1,13 @@
+# Target labels
+ l3_e1
+# Source files and their labels
+/home/pranav/ncsfund/l3_e1/build/_sysbuild/sysbuild/images/CMakeFiles/l3_e1
+/home/pranav/ncsfund/l3_e1/build/_sysbuild/sysbuild/images/CMakeFiles/l3_e1.rule
+/home/pranav/ncsfund/l3_e1/build/_sysbuild/sysbuild/images/CMakeFiles/l3_e1-complete.rule
+/home/pranav/ncsfund/l3_e1/build/_sysbuild/sysbuild/images/l3_e1-prefix/src/l3_e1-stamp/l3_e1-build.rule
+/home/pranav/ncsfund/l3_e1/build/_sysbuild/sysbuild/images/l3_e1-prefix/src/l3_e1-stamp/l3_e1-configure.rule
+/home/pranav/ncsfund/l3_e1/build/_sysbuild/sysbuild/images/l3_e1-prefix/src/l3_e1-stamp/l3_e1-download.rule
+/home/pranav/ncsfund/l3_e1/build/_sysbuild/sysbuild/images/l3_e1-prefix/src/l3_e1-stamp/l3_e1-install.rule
+/home/pranav/ncsfund/l3_e1/build/_sysbuild/sysbuild/images/l3_e1-prefix/src/l3_e1-stamp/l3_e1-mkdir.rule
+/home/pranav/ncsfund/l3_e1/build/_sysbuild/sysbuild/images/l3_e1-prefix/src/l3_e1-stamp/l3_e1-patch.rule
+/home/pranav/ncsfund/l3_e1/build/_sysbuild/sysbuild/images/l3_e1-prefix/src/l3_e1-stamp/l3_e1-update.rule

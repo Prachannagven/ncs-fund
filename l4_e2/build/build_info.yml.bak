@@ -1,0 +1,22 @@
+cmake:
+  board:
+    name: 'nrf52840dk'
+    path:
+     - '/home/pranav/ncs/v3.2.1/zephyr/boards/nordic/nrf52840dk'
+    qualifiers: 'nrf52840'
+    revision: ''
+  images:
+   - name: 'l4_e2'
+     source-dir: '/home/pranav/ncsfund/l4_e2'
+     type: 'MAIN'
+  kconfig:
+    files:
+     - '/home/pranav/ncsfund/l4_e2/build/_sysbuild/empty.conf'
+     - '/home/pranav/ncsfund/l4_e2/build/_sysbuild/empty.conf'
+    user-files:
+     - '/home/pranav/ncsfund/l4_e2/build/_sysbuild/empty.conf'
+version: '0.1.0'
+west:
+  command: '/home/pranav/ncs/toolchains/43683a87ea/usr/local/bin/west build --build-dir /home/pranav/ncsfund/l4_e2/build /home/pranav/ncsfund/l4_e2 --pristine --board nrf52840dk/nrf52840 --sysbuild -- -DCONF_FILE=prj.conf'
+  topdir: '/home/pranav/ncs/v3.2.1'
+  version: '1.4.0'

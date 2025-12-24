@@ -1,0 +1,7 @@
+default: l4_e2
+build_dir: /home/pranav/ncsfund/l4_e2/build
+domains:
+  - name: l4_e2
+    build_dir: /home/pranav/ncsfund/l4_e2/build/l4_e2
+flash_order:
+  - l4_e2

@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/pranav/ncsfund/l4_e1/build/_sysbuild/sysbuild/images/CMakeFiles/l4_e1"
+		},
+		{
+			"file" : "/home/pranav/ncsfund/l4_e1/build/_sysbuild/sysbuild/images/CMakeFiles/l4_e1.rule"
+		},
+		{
+			"file" : "/home/pranav/ncsfund/l4_e1/build/_sysbuild/sysbuild/images/CMakeFiles/l4_e1-complete.rule"
+		},
+		{
+			"file" : "/home/pranav/ncsfund/l4_e1/build/_sysbuild/sysbuild/images/l4_e1-prefix/src/l4_e1-stamp/l4_e1-build.rule"
+		},
+		{
+			"file" : "/home/pranav/ncsfund/l4_e1/build/_sysbuild/sysbuild/images/l4_e1-prefix/src/l4_e1-stamp/l4_e1-configure.rule"
+		},
+		{
+			"file" : "/home/pranav/ncsfund/l4_e1/build/_sysbuild/sysbuild/images/l4_e1-prefix/src/l4_e1-stamp/l4_e1-download.rule"
+		},
+		{
+			"file" : "/home/pranav/ncsfund/l4_e1/build/_sysbuild/sysbuild/images/l4_e1-prefix/src/l4_e1-stamp/l4_e1-install.rule"
+		},
+		{
+			"file" : "/home/pranav/ncsfund/l4_e1/build/_sysbuild/sysbuild/images/l4_e1-prefix/src/l4_e1-stamp/l4_e1-mkdir.rule"
+		},
+		{
+			"file" : "/home/pranav/ncsfund/l4_e1/build/_sysbuild/sysbuild/images/l4_e1-prefix/src/l4_e1-stamp/l4_e1-patch.rule"
+		},
+		{
+			"file" : "/home/pranav/ncsfund/l4_e1/build/_sysbuild/sysbuild/images/l4_e1-prefix/src/l4_e1-stamp/l4_e1-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"l4_e1"
+		],
+		"name" : "l4_e1"
+	}
+}

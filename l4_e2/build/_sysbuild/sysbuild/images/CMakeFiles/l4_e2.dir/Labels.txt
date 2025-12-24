@@ -1,0 +1,13 @@
+# Target labels
+ l4_e2
+# Source files and their labels
+/home/pranav/ncsfund/l4_e2/build/_sysbuild/sysbuild/images/CMakeFiles/l4_e2
+/home/pranav/ncsfund/l4_e2/build/_sysbuild/sysbuild/images/CMakeFiles/l4_e2.rule
+/home/pranav/ncsfund/l4_e2/build/_sysbuild/sysbuild/images/CMakeFiles/l4_e2-complete.rule
+/home/pranav/ncsfund/l4_e2/build/_sysbuild/sysbuild/images/l4_e2-prefix/src/l4_e2-stamp/l4_e2-build.rule
+/home/pranav/ncsfund/l4_e2/build/_sysbuild/sysbuild/images/l4_e2-prefix/src/l4_e2-stamp/l4_e2-configure.rule
+/home/pranav/ncsfund/l4_e2/build/_sysbuild/sysbuild/images/l4_e2-prefix/src/l4_e2-stamp/l4_e2-download.rule
+/home/pranav/ncsfund/l4_e2/build/_sysbuild/sysbuild/images/l4_e2-prefix/src/l4_e2-stamp/l4_e2-install.rule
+/home/pranav/ncsfund/l4_e2/build/_sysbuild/sysbuild/images/l4_e2-prefix/src/l4_e2-stamp/l4_e2-mkdir.rule
+/home/pranav/ncsfund/l4_e2/build/_sysbuild/sysbuild/images/l4_e2-prefix/src/l4_e2-stamp/l4_e2-patch.rule
+/home/pranav/ncsfund/l4_e2/build/_sysbuild/sysbuild/images/l4_e2-prefix/src/l4_e2-stamp/l4_e2-update.rule
